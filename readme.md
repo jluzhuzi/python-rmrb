@@ -8,7 +8,9 @@
 
 我本硕都是学哲学的，自学只为解决生活中的问题，所以代码写的不好，请大神们不要喷。
 
-联系我：liulizhucn#gmail.com
+联系我：liulizhucn#gmail.com 
+ 
+微信：zhuzicn
 
 # 功能
 
